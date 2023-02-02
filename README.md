@@ -101,4 +101,4 @@ We will then add it to our portfolio page and place it appropriately.
 
 We should remember one thing that we need to place the pattern markers far away from each other in the portfolio to avoid overlapping of the image/video assigned to each marker.
 
-https://s3-whjr-curriculum-uploads.whjr.online/00863de7-0df7-4247-a48f-d7c1a1a431e2.png
+
