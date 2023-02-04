@@ -1,5 +1,9 @@
 # Python-class-187-v3
+refer class 168 --for pattern marker
 
+https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+
+--------------------------
 Last Class:
 
  the particle system in VR.
